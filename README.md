@@ -1,0 +1,2 @@
+# SmartBanner
+Apple Smart banner
